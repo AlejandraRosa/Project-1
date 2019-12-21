@@ -1,6 +1,6 @@
 # Project Title: Divvy Ridership 2018
 
-Team Members:
+## Team Members:
 
 Brianna John
 
@@ -8,11 +8,11 @@ Jordan Evans
 
 Alejandra Rosa
 
-#Project Description/Outline:
+## Project Description/Outline:
 
 We will analyze Divvy data
 
-#Research Questions:
+## Research Questions:
 
 1. When are the the most Divvy bikes on the road?
 
