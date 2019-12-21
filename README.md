@@ -1,13 +1,21 @@
 # Project Title: Divvy Ridership 2018
 
-Project Description:
+Team Members:
+Brianna John
+Jordan Evans
+Alejandra Rosa
 
-Research Questions:
+#Project Description/Outline:
 
-When are the most divvys on the road?
+We will analyze Divvy data to  
+
+#Research Questions:
+
+When are the the most Divvy bikes on the road?
+-Average rides over 2018
+-Bar graph visualization by hour
 
 What are the most used stops?
+-map 'from station and 'to station' using City of Chicago's Divy station to map lat/long
 
-Are more users using to commute or for leisure? 
-
-How does weather aggect rides?
+How does weather affect rides? Does ridership change MoM as weather changes?
