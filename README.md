@@ -10,7 +10,7 @@ Alejandra Rosa
 
 ## Project Description/Outline:
 
-We will analyze Divvy data
+We will analyze 2018 Divvy rider to answer the questions below.
 
 ## Research Questions:
 
