@@ -35,3 +35,9 @@ We will analyze 2018 Divvy rider to answer the questions below. We pulled the da
 -Using API data to understand if bad weather negatively impacts ridership.
 
 -This will help Divvy with their workforce planning and ensuring that they have the right number of techincians and Divvy Truck transports on the road.
+
+Data source: 
+
+https://s3.amazonaws.com/divvy-data/index.html
+
+https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7
